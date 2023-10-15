@@ -15,7 +15,7 @@ We have implemented the following 3 methods for image super resolution in this r
 
 **Model Architecture**
 
-![screenshot_1](Screenshots\s1.jpg)
+![screenshot_1](Screenshots/s1.jpg)
 
 **Upsampling Method used**: Bicubic Interpolation.
 
@@ -25,14 +25,14 @@ We have implemented the following 3 methods for image super resolution in this r
 
 **Output**:
 
-![screenshot_2](Screenshots\s2.png)
+![screenshot_2](Screenshots/s2.png)
 
 
 ##  Fast Super-Resolution Convolutional Neural Network (FSRCNN)
 
 **Model Architecture**
 
-![screenshot_3](Screenshots\s3.png)
+![screenshot_3](Screenshots/s3.png)
 
 **Upsampling Method used**: Deconv.
 
@@ -42,14 +42,14 @@ We have implemented the following 3 methods for image super resolution in this r
 
 **Output**:
 
-![screenshot_4](Screenshots\s4.png)
+![screenshot_4](Screenshots/s4.png)
 
 
 ##  Super Resolution Generative Adversarial Networks (SRGAN)
 
 **Model Architecture**
 
-![screenshot_5](Screenshots\s4.1.png)
+![screenshot_5](Screenshots/s4.1.png)
 
 **Upsampling Method used**: Sub-pixel convolutional layer.
 
@@ -59,8 +59,8 @@ We have implemented the following 3 methods for image super resolution in this r
 
 **Output**:
 
-![screenshot_6](Screenshots\s5.png)
-![screenshot_7](Screenshots\s6.png)
+![screenshot_6](Screenshots/s5.png)
+![screenshot_7](Screenshots/s6.png)
 
 
 
